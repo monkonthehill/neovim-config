@@ -1,0 +1,26 @@
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+d
+# Neovim temp
+
+*.log
+*.tmp
+.session
+
+# Lazy.nvim
+lazy-lock.json
+
+# OS files
+.DS_Store
+
+# Swap files
+*.swp
+*.swo
+
+# LSP/cache
+.cache/ata
